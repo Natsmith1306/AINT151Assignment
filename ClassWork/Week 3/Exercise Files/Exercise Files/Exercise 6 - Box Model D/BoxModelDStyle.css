@@ -1,0 +1,22 @@
+#container{margin: 0 auto;
+width: 900px;}
+
+#header {
+  width: 900px;
+  height:70px;
+background-color: salmon;
+  margin-bottom: 10px;
+}
+
+#rightmenu{width: 290px;
+height:430px;
+background-color: salmon;
+margin: 10px, 0px, 10px, 10px;
+float:right;}
+
+.leftitem{ width:600px;
+height:100px;
+background-color: salmon;
+margin:10px, 10px, 0px, 10px;
+margin-top: 10px;
+}

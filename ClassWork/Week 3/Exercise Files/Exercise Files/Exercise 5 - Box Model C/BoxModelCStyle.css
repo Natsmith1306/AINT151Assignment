@@ -1,0 +1,35 @@
+#container{margin: 0 auto;
+width: 900px;}
+
+#header {
+  width: 900px;
+  height:70px;
+background-color: salmon;
+  margin-bottom: 10px;
+}
+
+.box{
+  height:81px;
+  width:81px;
+  margin-left:10px;
+  margin-bottom: 10px;
+  background-color: salmon;
+  float:left;
+}
+
+.leftbox{
+  /*height:81px;
+width:81px;
+background-color: salmon;
+*/
+margin-left: 0px;
+/*float:left*/
+}
+
+
+
+.clear{clear:both;}
+
+#footer{height: 30px;
+background-color: salmon;
+margin-top: 5px;}

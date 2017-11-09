@@ -1,0 +1,11 @@
+li {
+display:inline;
+color: black;
+  background-color: grey;
+padding: 8px;
+}
+li a:hover {
+  color: pink;
+background-color: yellow;
+}
+li:hover {background-color: yellow;}
